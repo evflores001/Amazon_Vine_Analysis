@@ -22,7 +22,7 @@ The number of paid 5-star reviews is 48, a little over 50% of total number of pa
 
 The number of unpaid 5-stars is 15,663 nearly 39% of of the total number of unpaid reviews.
 
-See the following [images]() for reference.
+See the following [images](https://github.com/evflores001/Amazon_Vine_Analysis/tree/main/images) for reference.
 
 ## Summary:
 
